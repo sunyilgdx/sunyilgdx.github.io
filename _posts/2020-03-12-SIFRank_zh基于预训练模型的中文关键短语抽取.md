@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SIFRank_zh
+title:      SIFRank_zh基于预训练模型的中文关键短语抽取
 subtitle:   基于预训练模型的中文关键词抽取
 date:       20120-03-12
 author:     sunyi
@@ -151,7 +151,7 @@ If you use this code, please cite this paper
                Chaoran Zhang},
   title     = {SIFRank: {A} New Baseline for Unsupervised Keyphrase Extraction Based
                on Pre-Trained Language Model},
-  journal   = {{IEEE} Access},
+  journal   = {IEEE Access},
   volume    = {8},
   pages     = {10896--10906},
   year      = {2020},
