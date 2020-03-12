@@ -2,7 +2,7 @@
 layout:     post
 title:      SIFRank_zh基于预训练模型的中文关键短语抽取
 subtitle:   基于预训练模型的中文关键词抽取
-date:       20120-03-12
+date:       2012-03-12
 author:     sunyi
 header-img: img/post-bg-cook.jpg
 catalog: true
